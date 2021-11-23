@@ -1,5 +1,7 @@
 # LoanStatus
 package m5cw1_linares;
+
+
 /**
  * Lourdes Linares
  * M5CW1
@@ -10,7 +12,8 @@ package m5cw1_linares;
 
 import java.util.Scanner;
 
-public class M5CW1_Linares {
+public class M5CW1_Linares 
+{
 
     
     public static void main(String[] args) {
@@ -86,5 +89,4 @@ public class M5CW1_Linares {
             }
     }
     
-    
-}
+    }
